@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Bank Dp",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Bank Dp"
+  },
+  "ui5AppDetails": {
+    "appId": "zbankdp"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_4FB0D8791C733E72EC086B9334600062DDA6BAF7_TM",
+    "semanticObject": "zbank_dp",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_4FB0D8791C733E72EC086B9334600062DDA6BAF7_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Bank Dp",
+        "subtitle": "MM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVIES DEFINITION'
+define service ZMM_INVENTORY_REPORT_CDS_DEF {
+  expose Zmm_Inventory_Report_Final_Cds;
+}
